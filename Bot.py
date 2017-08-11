@@ -3,7 +3,7 @@ import sys, os, telebot, urllib2,
 
 __author__ = "Daniel Yohan"
 __copyright__ = "Copyright 2017"
-__credits__ = ["Daniel Yohan", "eternnoir"]
+__credits__ = ["dyohan9", "eternnoir"]
 __license__ = "GPL"
 __version__ = "1.0.0"
 __maintainer__ = "Daniel Yohan"
