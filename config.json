@@ -1,0 +1,22 @@
+{
+	"directory": "/mnt/library/",
+    "extensions": [
+        "mp4", 
+        "avi", 
+        "mov", 
+        "wmv", 
+        "3gp", 
+        "3g2", 
+        "flv", 
+        "mkv", 
+        "rm"
+    ], 
+    "ranks": {
+        "admins": [
+            "dyohan9"
+        ], 
+        "users": [
+            "dyohan9"
+        ]
+    }
+}
