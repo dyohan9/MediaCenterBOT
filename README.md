@@ -1,6 +1,6 @@
 # MediaCenterBOT
 
-Bot for Media Center using Telegram
+Bot para Media Center usando Telegram
 
 ### Pré-requisitos
 
